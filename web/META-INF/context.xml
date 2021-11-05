@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/Assignment_PRJ301_Book-Store_SE151196">
+  <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="DBCon" password="yftw-rwup-gheu" type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;databaseName=Book_Store_PRJ301" username="MyConnect">
+    </Resource>
+</Context>
